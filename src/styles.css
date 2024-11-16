@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button:disabled {
+  background: grey;
+  opacity: 0.5;
+}
