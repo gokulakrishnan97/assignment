@@ -7,3 +7,4 @@ npm i
 
 #Run code
 To start the server using below command
+npm start
